@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Pramod+Ganvit+is+here!;DevOps+%26+CLOUDS+Engineering;1%2B+Years+AWS+IAAS+Excerpt;Cloud+Engineer+Expert)](https://git.io/typing-svg)
 
 </div>
-<h3 align="center">A passionate full DEVOPS  ENGEENIR & COULD  ENGINEER from India</h3>
+<h3 align="center">A passionate full DEVOPS  ENGENEER & COULD  ENGINEER from India</h3>
 
 <img align="right" apt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=METEORBUZZ&label=Profile%20views&color=0e75b6&style=flat" alt="METEORBUZZ" /> </p>
@@ -27,3 +27,102 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=METEORBUZZ&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+**🐱 My GitHub Data** 
+
+> 📦 698.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,060 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 67 Public Repositories 
+ > 
+> 🔑 28 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                36503 commits       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌆 Daytime                83492 commits       ██████████████░░░░░░░░░░░   56.10 % 
+🌃 Evening                23895 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+🌙 Night                  4938 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   35323 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Tuesday                  30225 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Wednesday                28317 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Thursday                 19006 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   21140 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 7254 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Sunday                   7563 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 8 hrs 1 min         ████████████░░░░░░░░░░░░░   48.21 % 
+Other                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+JavaScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.45 % 
+Claude Code              5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.01 % 
+OpenCode                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+💻 Operating System: 
+Mac                      16 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 14 hrs 17 mins (85.93%)
+
+✍️ 5,142 lines written by AI, 2,357 lines written by hand (68.57% AI-written)
+
+🔤 7,900,592 Input Tokens, 945,974 Output Tokens
+
+💵 $408.00 Estimated AI Cost This Week
+
+🧠 52 AI Sessions, 194 AI Prompts
+
+Hy                       1,944 lines         █████████░░░░░░░░░░░░░░░░   37.86 % 
+Opus                     1,045 lines         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Opencode-Cli             972 lines           █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Deepseek                 829 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Sonnet                   342 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 68.57% of written lines came from AI
+📚 Verbose Prompter — average 3,880 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 34.0% of changed lines were hand-edited
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Dockerfile               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+```
+
+
+
+
+ Last Updated on 29/08/2026 20:50:35 UTC
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
