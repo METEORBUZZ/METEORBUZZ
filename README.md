@@ -19,19 +19,17 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sg_nicky) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sg_8pramod7263) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pramodganvit) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pramodganvit1@gmail.com) 
 
-# 💻 Tech Stack
+##Techonology
+
 ## ☁️ Cloud & Services
 
-<p>
-  <span><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" width="22" alt="EC2"> EC2</span>&nbsp;&nbsp;
-  <span><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticContainerRegistry.png" width="22" alt="ECR"> ECR</span>&nbsp;&nbsp;
-  <span><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticKubernetesService.png" width="22" alt="EKS"> EKS</span>&nbsp;&nbsp;
-  <span><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" width="22" alt="S3"> S3</span>&nbsp;&nbsp;
-  <span><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/Lambda.png" width="22" alt="Lambda"> Lambda</span>&nbsp;&nbsp;
-  <span><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityAccessManagement.png" width="22" alt="IAM"> IAM</span>&nbsp;&nbsp;
-  <span><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" width="22" alt="DynamoDB"> DynamoDB</span>
-</p>
-
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=plastic&logo=amazonec2&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/ECR-FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/EKS-FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31.svg?style=plastic&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/IAM-DD344C.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=plastic&logo=amazondynamodb&logoColor=white)
 
 ## 🚀 DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
