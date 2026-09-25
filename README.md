@@ -19,8 +19,8 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sg_nicky) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sg_8pramod7263) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pramodganvit) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pramodganvit1@gmail.com) 
 
-##Techonology
-
+## 🛠️ Tools & Technologies
+ 
 ## ☁️ Cloud & Services
 
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=plastic&logo=amazonec2&logoColor=white)
@@ -47,7 +47,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD)
 
-## 🛠️ Tools & Technologies
+## 🛠️ Language & Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
