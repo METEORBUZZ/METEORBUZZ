@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello Dosto 👋
+Hello Dosto 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Pramod+Ganvit+is+here!;DevOps+%26+Cloud+Engineering;1%2B+Years+AWS+IaaS+Expert;Cloud+Engineer+Expert)](https://git.io/typing-svg)
 
