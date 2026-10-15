@@ -5,7 +5,7 @@
     width="900"
   />
 </p>
-<div align="center">
+<div align="left">
 <h1 align="center">Hi 👋, I'm Pramod Ganvit</h1>
 
 <h3 align="center">
