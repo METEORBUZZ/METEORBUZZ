@@ -6,11 +6,18 @@
   />
 </p>
 <div align="center">
-<h3 align="center">Building reliable cloud infrastructure, automating delivery, and turning complex systems into scalable solutions.</h3>  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Pramod+Ganvit+%7C+DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;Building+Scalable+%26+Reliable+Cloud+Infrastructure;Automating+Infrastructure+%26+Continuous+Delivery;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Observability)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Pramod Ganvit</h1>
 
+<h3 align="center">
+Building reliable cloud infrastructure, automating delivery, and turning complex systems into scalable solutions.
+</h3>
 
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Pramod+Ganvit+%7C+DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;Building+Scalable+%26+Reliable+Cloud+Infrastructure;Automating+Infrastructure+%26+Continuous+Delivery;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Observability"
+    alt="Typing SVG"
+  />
+</p>
 </div>
 
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
