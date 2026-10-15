@@ -37,48 +37,56 @@ Building reliable cloud infrastructure, automating delivery, and turning complex
 ![Amazon S3](https://img.shields.io/badge/S3-569A31.svg?style=plastic&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/IAM-DD344C.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=plastic&logo=amazondynamodb&logoColor=white)
-## 🧰 DevOps Toolchain
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=plastic&logo=amazondynamodb&logoColor=white)## 🧰 DevOps Toolchain
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
 </p>
 
 ### 🐳 Containers & Orchestration
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
 </p>
 
-### 🔄 CI/CD & GitOps
+### 🔁 CI/CD & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,argo" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
 </p>
 
 ### 📊 Observability & Monitoring
 <p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
 </p>
 
 ### 🔐 Security & DevSecOps
 <p>
-  <img src="https://skillicons.dev/icons?i=trivy" />
+<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
 </p>
 
-### 🌿 Version Control
+### 🗄️ Version Control & Collaboration
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
 ### 🖥️ Scripting & OS
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
 </p>
+
+
+</p>
+<p align ="center" >
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=METEORBUZZ&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=METEORBUZZ&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=METEORBUZZ&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=METEORBUZZ&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
