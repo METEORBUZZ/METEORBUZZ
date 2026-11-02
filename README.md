@@ -27,7 +27,6 @@ Building reliable cloud infrastructure, automating delivery, and turning complex
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sg_nicky) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sg_8pramod7263) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pramodganvit) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pramodganvit1@gmail.com) 
 
-## 🛠️ Tools & Technologies
  
 ## ☁️ Cloud & Services
 
@@ -37,7 +36,7 @@ Building reliable cloud infrastructure, automating delivery, and turning complex
 ![Amazon S3](https://img.shields.io/badge/S3-569A31.svg?style=plastic&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/IAM-DD344C.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=plastic&logo=amazondynamodb&logoColor=white)## 🧰 DevOps Toolchain
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=plastic&logo=amazondynamodb&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 <p>
